@@ -1,2 +1,3 @@
-package Specials;public enum Status {
+package Specials.Status;
+public enum Status {
 }

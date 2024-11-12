@@ -1,6 +1,6 @@
 package PlayerStuff;
 
-public enum PlayerClasses
+public enum PlayerClass
 {
     WARRIOR(12,4,16),
     RANGER(10,8,10),
@@ -9,7 +9,7 @@ public enum PlayerClasses
 
     public int maxHP,maxMP,maxSP;
 
-    PlayerClasses(int maxHP,int maxMP,int maxSP)
+    PlayerClass(int maxHP,int maxMP,int maxSP)
     {
         this.maxHP = maxHP;
         this.maxMP = maxMP;

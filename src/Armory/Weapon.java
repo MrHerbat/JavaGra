@@ -1,2 +1,3 @@
-package Armory;public enum Weapon {
+package Armory;
+public enum Weapon {
 }

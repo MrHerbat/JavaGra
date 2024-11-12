@@ -1,2 +1,3 @@
-package Specials.Status;public class StatusEffects {
+package Specials.Status;
+public class StatusEffects {
 }
