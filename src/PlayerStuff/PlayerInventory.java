@@ -1,2 +1,5 @@
-package PlayerStuff;public class PlayerInventory {
+package PlayerStuff;
+public class PlayerInventory
+{
+
 }

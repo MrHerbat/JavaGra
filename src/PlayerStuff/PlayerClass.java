@@ -7,12 +7,12 @@ public enum PlayerClass
     ROUGE(8,10,8),
     MAGE(6,16,4);
 
-    public int maxHP,maxMP,maxSP;
+    public int baseHP, baseMP, baseSP;
 
     PlayerClass(int maxHP,int maxMP,int maxSP)
     {
-        this.maxHP = maxHP;
-        this.maxMP = maxMP;
-        this.maxSP = maxSP;
+        this.baseHP = maxHP;
+        this.baseMP = maxMP;
+        this.baseSP = maxSP;
     }
 }
